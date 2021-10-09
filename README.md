@@ -41,14 +41,14 @@ Data obtained from http://web.mta.info/developers/turnstile.html.
 The data below shows the entry/exit register values for one turnstile at control area (A002) from 09/27/14 at 00:00 hours to 09/29/14 at 00:00 hours
 
 ## Tools:
-SqLlit  
-sqlalchemy
-Jupyter Notebook
-Python
-Pandas
-numpy
-Matplotlib
-Seaborn
+<li>SqLlit </li> 
+<li>qlalchemy</li>
+<li>Jupyter Notebook</li>
+<li>Python</li>
+<li>Pandas</li>
+<li>numpy</li>
+<li>Matplotlib</li>
+<li>Seaborn</li>
 
 ## Deliverables:
 
