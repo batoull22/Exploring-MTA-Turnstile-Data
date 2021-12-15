@@ -42,7 +42,7 @@ The data below shows the entry/exit register values for one turnstile at control
 
 ## Tools:
 <li>SqLlit </li> 
-<li>qlalchemy</li>
+<li>Aqlalchemy</li>
 <li>Jupyter Notebook</li>
 <li>Python</li>
 <li>Pandas</li>
